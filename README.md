@@ -6,5 +6,6 @@ You can also choose the specific format of the files you want to move.
 ## Important infos
 Find the program in releases. You'll need to install the desktop runtime to run this application.
 The release contains a ".bat" file that will redirect you directly to download the correct version of the required Microsoft .NET Desktop Runtime.
+Don't move the executable from its original folder. If you want, you can create a shortcut and place it wherever you want.
 
 ## Jacopo
